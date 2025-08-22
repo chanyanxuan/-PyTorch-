@@ -29,13 +29,10 @@ cd building-damage-diagnosis
 
 # 模型架构
 系统使用基于 CNN 的多任务学习架构：
-
 特征提取: 1D 卷积网络处理距离和斜率特征
 
 多任务头:
-
 分类头：预测损伤位置（象限）
-
 回归头：预测损伤程度
 
  性能指标
@@ -47,22 +44,16 @@ cd building-damage-diagnosis
 
 推理速度: 1000+ samples/second (GPU)
 
-👨‍💻 开发者
+ 开发者
 Chen Yanxuan
 
-📧 邮箱: your-email@example.com
-
-🔗 GitHub: yourusername
-
-💼 LinkedIn: 你的LinkedIn
-
-🤝 贡献
+ 贡献
 欢迎提交 Issue 和 Pull Request！对于重大更改，请先开 Issue 讨论您想要更改的内容。
 
-📄 许可证
+ 许可证
 本项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情。
 
-🙏 致谢
+致谢
 感谢 PyTorch 团队提供的深度学习框架
 
 感谢所有为这个项目提供反馈和建议的贡献者

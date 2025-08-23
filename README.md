@@ -1,4 +1,4 @@
-<img width="3353" height="1874" alt="38210fa8-43aa-49b3-98a6-dcbef30ee32b" src="https://github.com/user-attachments/assets/38fd8f2b-5b9d-4a11-ae3f-6aa7478a4d3c" /># 建筑物损伤诊断系统
+# 建筑物损伤诊断系统
 
 基于深度学习的建筑物损伤诊断系统，使用 PyTorch 实现，能够从 InSAR 数据中识别和定位建筑物损伤。
 <img width="3353" height="1874" alt="38210fa8-43aa-49b3-98a6-dcbef30ee32b" src="https://github.com/user-attachments/assets/412f929d-e4ea-486b-985f-119e2b131d27" />
